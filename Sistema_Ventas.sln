@@ -1,0 +1,66 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29403.142
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ventas_Entidades", "Ventas_Entidades\Ventas_Entidades.csproj", "{BBC68DF0-363B-401C-B4E2-50957333F3F6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ventas_Datos", "Ventas_Datos\Ventas_Datos.csproj", "{17F69AD5-DA18-4F27-9557-5C7F92968C49}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SistVentas_Web", "SistVentas_Web\SistVentas_Web.csproj", "{B58B487A-FC18-4D99-9A8B-4F5D9773ADAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBC68DF0-363B-401C-B4E2-50957333F3F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBC68DF0-363B-401C-B4E2-50957333F3F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBC68DF0-363B-401C-B4E2-50957333F3F6}.Debug|x86.ActiveCfg = Debug|x86
+		{BBC68DF0-363B-401C-B4E2-50957333F3F6}.Debug|x86.Build.0 = Debug|x86
+		{BBC68DF0-363B-401C-B4E2-50957333F3F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBC68DF0-363B-401C-B4E2-50957333F3F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBC68DF0-363B-401C-B4E2-50957333F3F6}.Release|x86.ActiveCfg = Release|x86
+		{BBC68DF0-363B-401C-B4E2-50957333F3F6}.Release|x86.Build.0 = Release|x86
+		{17F69AD5-DA18-4F27-9557-5C7F92968C49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17F69AD5-DA18-4F27-9557-5C7F92968C49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17F69AD5-DA18-4F27-9557-5C7F92968C49}.Debug|x86.ActiveCfg = Debug|x86
+		{17F69AD5-DA18-4F27-9557-5C7F92968C49}.Debug|x86.Build.0 = Debug|x86
+		{17F69AD5-DA18-4F27-9557-5C7F92968C49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17F69AD5-DA18-4F27-9557-5C7F92968C49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17F69AD5-DA18-4F27-9557-5C7F92968C49}.Release|x86.ActiveCfg = Release|x86
+		{17F69AD5-DA18-4F27-9557-5C7F92968C49}.Release|x86.Build.0 = Release|x86
+		{B58B487A-FC18-4D99-9A8B-4F5D9773ADAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B58B487A-FC18-4D99-9A8B-4F5D9773ADAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B58B487A-FC18-4D99-9A8B-4F5D9773ADAC}.Debug|x86.ActiveCfg = Debug|x86
+		{B58B487A-FC18-4D99-9A8B-4F5D9773ADAC}.Debug|x86.Build.0 = Debug|x86
+		{B58B487A-FC18-4D99-9A8B-4F5D9773ADAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B58B487A-FC18-4D99-9A8B-4F5D9773ADAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B58B487A-FC18-4D99-9A8B-4F5D9773ADAC}.Release|x86.ActiveCfg = Release|x86
+		{B58B487A-FC18-4D99-9A8B-4F5D9773ADAC}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D2B3E2AD-3652-4FD6-9137-2722DEBAC872}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 4
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://jars0098.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Ventas_Datos\\Ventas_Datos.csproj
+		SccProjectName1 = Ventas_Datos
+		SccLocalPath1 = Ventas_Datos
+		SccProjectUniqueName2 = Ventas_Entidades\\Ventas_Entidades.csproj
+		SccProjectName2 = Ventas_Entidades
+		SccLocalPath2 = Ventas_Entidades
+		SccProjectUniqueName3 = SistVentas_Web\\SistVentas_Web.csproj
+		SccProjectName3 = SistVentas_Web
+		SccLocalPath3 = SistVentas_Web
+	EndGlobalSection
+EndGlobal
