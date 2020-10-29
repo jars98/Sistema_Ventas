@@ -230,9 +230,6 @@ namespace SistVentas_Web.Controllers
             return Ok();
         }
 
-        private bool CategoriaExists(int id)
-        {
-            return _context.Categorias.Any(e => e.Id_Categoria == id);
-        }
+        
     }
 }
